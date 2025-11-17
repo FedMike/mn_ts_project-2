@@ -6,7 +6,7 @@ export const defaultUser: LocalGithubUser = {
     "name": "FedMike",
     "company": "Not Available",
     "blog": "Not Available",
-    "location": "Yakuts",
+    "location": "Yakutsk",
     "bio": "Frontend developer",
     "twitter": "Not Available",
     "repos": 35,
